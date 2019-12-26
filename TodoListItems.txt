@@ -1,0 +1,8 @@
+Mail birtday card	Buy a 30th birthday card for John	29-12-2019
+Doctor's appointment	See doctor Smith at 123 Main Street. Bring paperwork	02-01-2020
+Finish design proposal for client	I promised Mike i will finish the design	04-01-2020
+Pickup Doug at the train station	Doug is arriving on March 23	23-03-2019
+Pickup dry cleaning	The clothes should be ready by Wednesday	28-12-2019
+A new Todo item	These are the details of the new todo item that I just created.	01-01-2020
+testt	testttt	10-12-2019
+newtest	testt	19-12-2019
